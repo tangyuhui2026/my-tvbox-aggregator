@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/单仓聚合.json
+
+https://cnb.cool/ayrjk/tvbox/-/git/raw/main/api.json
